@@ -1,0 +1,6 @@
+{
+  "name": "Madrassa Arabiyyah Misbah Ul Quran For Huffaz",
+  "description": "Official Islamic Madrasa Management Website and Portal for Madrassa Arabiyyah Misbah Ul Quran For Huffaz, Lahore. Features student admissions, 30-day Quran Para progress tracking, attendance, 3-copy printable fee challans, results, date sheets, timings, and secure multi-admin system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
